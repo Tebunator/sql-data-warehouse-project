@@ -5,7 +5,7 @@ This project demostrates a comprehensive data warehousing and analytics solution
 Designed as a portfolio project that higlights industry best practices in data engineering and analytics.
 
 -----
-## 🚀 Project Requirements
+## 🛸 Project Requirements
 
 ## Building the Data Warehouse (Data Engineering)
 

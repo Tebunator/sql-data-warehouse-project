@@ -1,6 +1,6 @@
 # Data Warehose and Analytics Project
 
-Welcome to the **Data Warehose and Analytics Project** repository!
+Welcome to the **Data Warehose and Analytics Project** repository! 🛸
 This project demostrates a comprehensive data warehousing and analytics solution from building a data warehouse to generating actionable insights. 
 Designed as a portfolio project that higlights industry best practices in data engineering and analytics.
 
@@ -31,5 +31,12 @@ Develop SQL-based analytics to deliver detailed insights into:
 
  These insights empower stakeholders with key business metrics, enabling stragic decision-making.
 
-
 ---
+
+## 🪬 License
+
+THis project is licensed under the [MIT License](LICENSE)
+
+## ⭐ About Me
+
+Hi there! I'm **Eric T Mphalela**. I'm an IT professional and passionate about SQL.

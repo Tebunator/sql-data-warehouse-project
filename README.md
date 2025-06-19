@@ -35,7 +35,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 ## 🪬 License
 
-THis project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [MIT License](LICENSE)
 
 ## ⭐ About Me
 

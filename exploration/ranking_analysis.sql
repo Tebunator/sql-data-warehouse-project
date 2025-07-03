@@ -63,4 +63,20 @@ Ranking Analysis - ordering the values of dimensions by measure
 	GROUP BY cu.first_name,
 	cu.last_name
 	ORDER BY highest_revenue
+
+-- The 3 customes with the fewest orders placed
+   SELECT TOP 3
+   cu.customer_key,
+   cu.first_name,
+   cu.last_name,
+   COUNT(DISTINCT order_number) AS total_orders
+   FROM gold.fact_sales sl
+   LEFT JOIN gold.dim_customers cu
+   ON cu.customer_key = sl.customer_key
+   GROUP BY
+   cu.customer_key,
+   cu.first_name,
+   cu.last_name
+   ORDER BY total_orders
+	
 	

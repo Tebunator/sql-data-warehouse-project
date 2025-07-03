@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE)
 
 ## ⭐ About Me
 
-Hi there! I'm **Eric T Mphalela**. I'm an IT professional and passionate about Data Engineering.
+Hi there! I'm **Eric T Mphalela**. I'm an IT professional and aspiring Data Engineering.
